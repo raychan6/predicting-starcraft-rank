@@ -11,3 +11,6 @@
 
 <br> 
 
+| ![](https://github.com/raychan6/predicting-starcraft-rank/blob/main/starcraft-logistic-regression.png) |
+|:--:|
+| *Confusion matrix of logistic regression model (0: low rank, 1: high rank)* |
